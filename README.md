@@ -1,6 +1,8 @@
-# myapp
+# ATIVIDADE LAYOUT
 
-A new Flutter project.
+Atividade refente á segunda unidade na matéria Desenvolvimento de WEB.
+Por: Maria Eduarda Almeida
+Polo: Ipiranga/PR
 
 ## Getting Started
 
